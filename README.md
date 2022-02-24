@@ -1,4 +1,4 @@
 # curso-git
 Repositório do curso de git
 
-2022
+FEVEREIRO - 2022
